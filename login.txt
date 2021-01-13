@@ -1,0 +1,13 @@
+2021-01-11 18:10:42 - [ GET 127.0.0.1 ] · request logout: oxigeno
+2021-01-11 18:20:06 - [ POST 127.0.0.1 ] · request login: oxigeno 5555555
+2021-01-11 18:26:49 - [ GET 127.0.0.1 ] · request logout: oxigeno
+2021-01-11 18:26:57 - [ POST 127.0.0.1 ] · request login: oooooo qqqqq
+2021-01-11 18:34:12 - [ GET 127.0.0.1 ] · request logout: oooooo
+2021-01-11 18:34:18 - [ POST 127.0.0.1 ] · request login: sddd 22222
+2021-01-11 18:34:53 - [ POST 127.0.0.1 ] · request login: sddd 22222
+2021-01-11 18:34:55 - [ GET 127.0.0.1 ] · request logout: sddd
+2021-01-11 18:35:00 - [ POST 127.0.0.1 ] · request login: ffffffffff aaaaaaaaa
+2021-01-11 18:42:48 - [ GET 127.0.0.1 ] · request logout: ffffffffff
+2021-01-11 18:42:57 - [ POST 127.0.0.1 ] · request login: oxigeno aaaaaaaa
+2021-01-11 19:59:42 - [ GET 127.0.0.1 ] · request logout: oxigeno
+2021-01-11 19:59:57 - [ POST 127.0.0.1 ] · request login: admin 99999
